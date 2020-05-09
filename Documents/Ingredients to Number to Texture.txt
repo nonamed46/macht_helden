@@ -1,0 +1,35 @@
+CRITICAL:
+Schlafmohn  ->  5     -> Tex_container_01_b
+Rosenquarz  ->  24    -> Tex_reagent_09_b
+Quellwasser ->  20    -> Tex_container_08_b
+
+Sternenstaub |nicht nummeriert| Tex_reagent_02_b (alt: gemstone 10 oder 11 oder 4 oder tausch mit Phönixasche)
+Ring der Tausend Seelen |nicht nummeriert| Tex_gemstone_02_b
+Einhörntränen |nicht nummeriert| Tex_reagent_06_b (alt: 12_b)
+Mondschein |nicht nummeriert| Tex_gemstone_03_b
+Zusätzliches:
+
+Zinn          |  1.   |  ----
+Blei          |  2.   |  Tex_ingots_05_b
+Eisen         |  3.   |  Tex_ingots_11_b
+Quecksilber   |  4.   |  -----
+Schlafmohn    |  5.   |  Tex_container_01_b
+Gold          |  6.   |  Tex_ingots_12_b
+Silber        |  7.   |  Tex_ingots_06_b
+Salpeter      |  8.   |  Tex_reagent_08_b
+Phönix-Asche  |  9.   |  Tex_reagent_05_b
+Drachenblut   |  10.  |  Tex_reagent_10_b
+Rubinbruch    |  11.  |  Tex_gemstone_05_b
+Gallwurz      |  12.  |  Tex_seeds_04_b
+Amethyst      |  13.  |  Tex_gemstone_07_b
+Heilige Erde  |  14.  |
+Trollrotz     |  15.  |  Tex_reagent_07_b
+Schwefel      |  16.  |  Tex_reagent_03_b
+Spinnenweben  |  17.  |
+Silbersamen   |  18.  |
+Roter Phosphor|  19.  |  Tex_reagent_04_b
+Quellwasser   |  20.  |  Tex_container_08_b
+Elfengold     |  21.  |  Tex_spare_parts_11_b
+Seetang       |  22.  |
+Blutbaumsaft  |  23.  |  Tex_reagent_12_b
+Rosenquarz    |  24.  |  Tex_reagent_09_b
